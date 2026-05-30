@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 class Movil {
   int fila, columna;
   float x, y;
